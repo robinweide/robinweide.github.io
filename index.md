@@ -8,7 +8,7 @@ layout: default
 
 Hello!
 
-My name is Robin and I am a computational biologist at the [Hubrecht](https://www.hubrecht.eu/research-groups/kind-group/) Institute for Developmental Biology and Stem Cell Research.
+My name is Robin and I am a computational biologist at the [Hubrecht](https://www.hubrecht.eu/research-groups/kind-group/){:target="_blank"} Institute for Developmental Biology and Stem Cell Research.
 
 ## Research Interest
 
