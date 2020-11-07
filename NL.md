@@ -9,8 +9,8 @@ is_contact: false
 
 Hoi!
 
-Mijn naam is Robin en ik ben een computationeel geneticus aan het [Hubrecht](https://www.hubrecht.eu/research-groups/kind-group/){:target="_blank"} Instituut voor Ontwikkelingsbiologie en Stamcelonderzoek. Dit betekent dat ik gebruik maak van veel statistiek en 
-ander analytisch gereedschap om biologische vraagstuken over genetica te kunnen beantwoorden.
+Mijn naam is Robin en ik ben een computationeel geneticus aan het [Hubrecht](https://www.hubrecht.eu/research-groups/kind-group/){:target="_blank"} Instituut voor Ontwikkelingsbiologie en Stamcelonderzoek. Dit betekent dat ik een wetenschapper ben die gebruik maak van veel statistiek en 
+ander analytisch gereedschap om biologische vraagstukken over DNA te kunnen beantwoorden.
 
 ## Mijn onderzoek
 Op dit moment is mijn onderzoek gericht op hoe DNA opgeslagen zit in de cel, de zogenoemde chromosoom-organisatie. 
