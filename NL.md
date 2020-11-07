@@ -16,7 +16,7 @@ Het computationele gedeelte kenmerkt zich doordat ik gebruik maakt van veel stat
 andere wiskundig gereedschap om biologische vraagstuken te kunnen beantwoorden.
 Op dit moment is mijn onderzoek gericht op hoe DNA zit opgeslagen in cellen. 
 De manier van opslag heeft namelijk een groot effect op welke genen gebruikt worden. 
-Ik bestudeer dit proces (1) tijdens de ontwikkeling van eicel naar embryo en (2) in de verschillende cellen van het netvlies.
+Ik bestudeer dit proces tijdens de ontwikkeling van eicel naar embryo en in de verschillende cellen van het netvlies.
 Mijn uiteindelijke hoop hierbij is dat ik kan bijdragen aan de kennis op het gebied van gen-regulatie tijdens ontwikkeling en zicht[^1]. 
 
 ## Publicaties
