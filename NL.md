@@ -4,9 +4,12 @@ is_contact: false
 ---
 
 ## Over mij
+
+<img class="profile-picture" src="circle-cropped.png">
+
 Hoi!
 
-Ik ben Robin en ik ben een computationele bioloog aan het [Hubrecht](https://www.hubrecht.eu/research-groups/kind-group/){:target="_blank"} Instituut voor Ontwikelingsbiologie en Stamcelonderzoek.
+Mijn naam is Robin en ik ben een computationele bioloog aan het [Hubrecht](https://www.hubrecht.eu/research-groups/kind-group/){:target="_blank"} Instituut voor Ontwikelingsbiologie en Stamcelonderzoek.
 
 ## Mijn onderzoek
 Het computationele gedeelte kenmerkt zich doordat ik gebruik maakt van veel statistiek en 
