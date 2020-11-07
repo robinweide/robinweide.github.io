@@ -21,4 +21,6 @@ I am focussing on how and where DNA is folded. I apply and develop methods of ge
 
 ## Education
 
-I received my BSc. in biology from the Utrecht University. After this, I was selected for the MSc. programme Cancer, Stem cells and Development. and the graduate school honours programme. During my MSc., I did internships at the Hubrecht Institute (Cuppen group) and Sanger Institute (Adams group). 
+- PhD int computational 3D genomics under the supervision of [Elzo de Wit](https://www.nki.nl/divisions/gene-regulation/de-wit-e-group/){:target="_blank"}  (Netherlands Cancer Institute / Antonie van Leeuwenhoek
+- MSc. in Cancer, Stem cells and Development at the Utrecht University (honours-track)
+- BSc. in Biology at the Utrecht University
