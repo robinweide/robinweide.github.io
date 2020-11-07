@@ -5,11 +5,11 @@ is_contact: false
 
 ## Contact
 
-Email: [r.weide@hubrecht.eu](mailto:r.weide@hubrecht.eu)
+Email: [r.weide@hubrecht.eu](mailto:r.weide@hubrecht.eu){:target="_blank"}
 
-Twitter: [RobinWeide](https://twitter.com/RobinWeide)
+Twitter: [RobinWeide](https://twitter.com/RobinWeide){:target="_blank"}
 
-LinkedIn: [robinvanderweide](https://www.linkedin.com/in/robinvanderweide/)
+LinkedIn: [robinvanderweide](https://www.linkedin.com/in/robinvanderweide/){:target="_blank"}
 
 ## Mailing Address
 
