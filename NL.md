@@ -26,4 +26,8 @@ Mijn uiteindelijke hoop hierbij is dat ik kan bijdragen aan de kennis op het geb
 - MSc. in Cancer, Stem cells and Development aan de Universiteit Utrecht (honours-track)
 - BSc. in Biologie aan de Universiteit Utrecht
 
+
+
+----
+
 [^1]: Hoewel dit erg vaag is, is dat ook het mooie aan nieuwsgierigheid-gedreven onderzoek: we weten gewoon niet wat die kennis ons gaat brengen op de langere termijn.
