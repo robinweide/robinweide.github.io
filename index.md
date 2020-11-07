@@ -16,14 +16,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. Systemic Loss and Gain of Chromatin Architecture throughout Zebrafish Development.
+2. The Cohesin Release Factor WAPL Restricts Chromatin Loop Extension.
 
 ## Education
 
 I received my BSc. in biology from the Utrecht University. After this, I was selected for the MSc. programme Cancer, Stem cells and Development. and the graduate school honours programme. During my MSc., I did internships at the Hubrecht Institute (Cuppen group) and Sanger Institute (Adams group). 
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
