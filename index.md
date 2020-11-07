@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hello!
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+My name is Robin and I am a computational biologist focussing on how and where DNA is folded. I apply and develop methods of genomic data science to solve questions regarding the folding of DNA and its regulatory promises.
 
 ## Research Interest
 
@@ -19,25 +19,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
-## Typography
+## Education
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
+I received my BSc. in biology from the Utrecht University. After this, I was selected for the MSc. programme Cancer, Stem cells and Development. and the graduate school honours programme. During my MSc., I did internships at the Hubrecht Institute (Cuppen group) and Sanger Institute (Adams group). 
 
 ## References
 
