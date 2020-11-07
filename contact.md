@@ -3,9 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [r.weide@hubrecht.eu](mailto:r.weide@hubrecht.eu)
+## Contact
 
----
+Email: [r.weide@hubrecht.eu](mailto:r.weide@hubrecht.eu)
 
 ## Mailing Address
 
@@ -15,9 +15,7 @@ is_contact: true
 >
 > The Netherlands
 
----
-
 ## Social
 
-1. [Twitter](https://twitter.com/RobinWeide)
-2. [LinkedIn](https://www.linkedin.com/in/robinvanderweide/)
+Twitter: [RobinWeide](https://twitter.com/RobinWeide)
+LinkedIn: [robinvanderweide](https://www.linkedin.com/in/robinvanderweide/)
