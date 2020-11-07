@@ -13,7 +13,7 @@ Mijn naam is Robin en ik ben een computationele (wiskundige) bioloog aan het [Hu
 ander analytisch gereedschap om biologische vraagstuken te kunnen beantwoorden.
 
 ## Mijn onderzoek
-Op dit moment is mijn onderzoek gericht op hoe DNA opgeslagen zit in de cel. 
+Op dit moment is mijn onderzoek gericht op hoe DNA opgeslagen zit in de cel, de zogenoemde chromosoom-organisatie. 
 DNA bevat genen, welke veel bepalen van hoe het organisme eruit ziet en werkt. 
 De kleur van je ogen is bijvoorbeeld bepaald door je genen. 
 Helaas kunnen de verkeerde genen op het verkeerde moment actief zijn, wat kan leiden tot ziektes zoals kanker.
