@@ -1,6 +1,6 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Robin H. van der Weide
+url: "https://robinweide.github.io"
+baseurl: "/robinweide.github.io"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/robinweide"
+#footer_text: "Page design based on  Ankit Sultana"
 
 sass:
     style: compressed
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/robinweide.github.io/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
