@@ -16,8 +16,8 @@ I am focussing on how and where DNA is folded. I apply and develop methods of ge
 
 ## Publications
 
-1. Systemic Loss and Gain of Chromatin Architecture throughout Zebrafish Development.
-2. The Cohesin Release Factor WAPL Restricts Chromatin Loop Extension.
+- Systemic Loss and Gain of Chromatin Architecture throughout Zebrafish Development.
+- The Cohesin Release Factor WAPL Restricts Chromatin Loop Extension.
 
 ## Education
 
