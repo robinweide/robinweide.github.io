@@ -5,7 +5,9 @@ is_contact: false
 
 ## Projects
 
-#### What are the dynamics of chromatin loop-formation and -maintanance?
+<Chromosome organisation is important for severaral aspects of gene-regulation>
+
+#### What are the dynamics of chromosome loop-formation and -maintanance?
 
 *Perturbing cohesin-mediated chromatin-extrusion by haploid genetics*
 
