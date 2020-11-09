@@ -5,10 +5,14 @@ is_contact: false
 
 ## Projects
 
-* How is DNA stored at different stages of an embryo?
+#### What are the dynamics of DNA loop-formation and -maintanance?
 
-Chromosome organisation through development and evolution
+*Perturbing cohesin-mediated chromatin-extrusion by haploid genetics*
 
-* Why is DNA stored "wrong" in retina-cells of nocturnal animals?
+#### How is DNA stored at different stages of an embryo?
 
-Retinal gene regulation dynamics
+*Chromosome organisation through development and evolution*
+
+#### Why is DNA stored "wrong" in retina-cells of nocturnal animals?
+
+*Retinal gene regulation dynamics*
