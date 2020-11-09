@@ -5,7 +5,7 @@ is_contact: false
 
 ## Projects
 
-<Chromosome organisation is important for severaral aspects of gene-regulation>
+Chromosome organisation is important for severaral aspects of gene-regulation.
 
 #### What are the dynamics of chromosome loop-formation and -maintanance?
 
