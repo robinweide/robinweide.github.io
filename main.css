@@ -13,22 +13,23 @@ h1 {
   font-weight: bold;
 }
 
-h6 { 
+h5 { 
   display: block;
   margin-top: 0em;
   margin-bottom: 0em;
   margin-left: 0;
   margin-right: 0;
-  font-weight: bold;
+  font-weight: normal;
+  color: #585F64;
 }
 
 a {
     text-decoration: none;
-    color: #1565c0;
+    color: #80CDE7;
 }
 
 a:hover {
-    color: #217ee7;
+    color: #80CDE7;
 }
 
 #content {
@@ -65,9 +66,9 @@ a:hover {
 }
 
 .icons a {
-    color: black;
+    color: #CED6DB;
 }
 
 .icons a:hover {
-    color: #00916E;
+    color: #585F64;
 }
