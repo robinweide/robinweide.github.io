@@ -1,7 +1,25 @@
 html {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: larger;
     font-weight: 300;
+}
+
+h1 { 
+  display: block;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+
+h6 { 
+  display: block;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
 }
 
 a {
